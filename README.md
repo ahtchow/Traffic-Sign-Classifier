@@ -7,6 +7,6 @@ In this project, I will use what i've learned about deep neural networks and con
 
 Check out:
 
-1. [Project Notebook](Traffic_Sign_Classifier.htm)
+1. [Project Notebook](Traffic_Sign_Classifier.ipynb)
 
 2. [Project Write-Up](TrafficSignClassifier.pdf) for more information about this project.
